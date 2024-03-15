@@ -2161,21 +2161,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Chouriço Corrente de Vinho FD 200g (1x15)",
-      "Reference": "J.51129",
-      "Código de Barras": "5601935001053",
-      "Peso": "3Kg",
-      "PVP s/iva": "13.67",
-      "O seu preço": "13.67",
-      "Qtd. Embalagem": "1X200Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1X15",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "15",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Chouriço Corrente de Vinho UZI aprx.1,6kg (1x5)",
       "Reference": "J.21190",
       "Código de Barras": "2976064016920",
@@ -2413,21 +2398,6 @@
       "Estado": "Refrigerado",
       "Observações": "---",
       "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Chouriço Vela Extra Fatiado 80g Famadesa (1x11)",
-      "Reference": "J.24039",
-      "Código de Barras": "8412254214829",
-      "Peso": "880Gr",
-      "PVP s/iva": "14.56",
-      "O seu preço": "14.56",
-      "Qtd. Embalagem": "1x80Gr",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x11",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "11",
       "Nome calculo": "€ / Unidade"
     },
     {
@@ -2866,21 +2836,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Morcela DM 200g (1x15)",
-      "Reference": "J.51163",
-      "Código de Barras": "5601588178256",
-      "Peso": "3Kg",
-      "PVP s/iva": "22.03",
-      "O seu preço": "22.03",
-      "Qtd. Embalagem": "1x200Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x15",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "15",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Mortadela Bolonhesa Izidoro aprx.2Kg (1x4)",
       "Reference": "J.17004",
       "Código de Barras": "2901335",
@@ -3305,8 +3260,8 @@
       "Reference": "J.41128",
       "Código de Barras": "8423413080421",
       "Peso": "1",
-      "PVP s/iva": "15.76",
-      "O seu preço": "15.76",
+      "PVP s/iva": "16.78",
+      "O seu preço": "16.78",
       "Qtd. Embalagem": "1x1",
       "Medida de venda": "KG",
       "Qtd. Caixa": "1X4",
@@ -3560,8 +3515,8 @@
       "Reference": "J.51176",
       "Código de Barras": "5600242016644",
       "Peso": "3kg",
-      "PVP s/iva": "33.08",
-      "O seu preço": "33.08",
+      "PVP s/iva": "33.58",
+      "O seu preço": "33.58",
       "Qtd. Embalagem": "1x300Gr",
       "Medida de venda": "Cx",
       "Qtd. Caixa": "1x10",
@@ -3573,8 +3528,8 @@
     {
       "Name": "Salpicao UZI 250gr (1x15)",
       "Reference": "J.51209",
-      "Código de Barras": ".....",
-      "Peso": "3.75",
+      "Código de Barras": "56029789138819",
+      "Peso": "200gr",
       "PVP s/iva": "32.91",
       "O seu preço": "32.91",
       "Qtd. Embalagem": "1x250Gr",
@@ -3931,21 +3886,6 @@
       "Nome calculo": "€ / Frasco"
     },
     {
-      "Name": "Salsichas Hot Dog Uzi Alemãs 8 unid 360g  (1x12)",
-      "Reference": "J.31071",
-      "Código de Barras": "05600713812430",
-      "Peso": "360g",
-      "PVP s/iva": "37.44",
-      "O seu preço": "37.44",
-      "Qtd. Embalagem": "1x8 unid",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x12",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "12",
-      "Nome calculo": "€ / Frasco"
-    },
-    {
       "Name": "Salsichas Hot-Dog Aves Izidoro 4Un (1x6)",
       "Reference": "J.31020",
       "Código de Barras": "5602348082394",
@@ -3995,8 +3935,8 @@
       "Reference": "J.31058",
       "Código de Barras": "15602348109586",
       "Peso": "1.32Kg",
-      "PVP s/iva": "11.69",
-      "O seu preço": "11.69",
+      "PVP s/iva": "11.73",
+      "O seu preço": "11.73",
       "Qtd. Embalagem": "1x4Unid",
       "Medida de venda": "CX",
       "Qtd. Caixa": "1x6",
@@ -4273,21 +4213,6 @@
       "Estado": "Refrigerado",
       "Observações": "---",
       "Unidade calculo": "1",
-      "Nome calculo": "€ / Kg"
-    },
-    {
-      "Name": "Barra Mozzarella Pizza Topping",
-      "Reference": "I.13014",
-      "Código de Barras": "5760466743303",
-      "Peso": "2.3kg",
-      "PVP s/iva": "12.77",
-      "O seu preço": "12.77",
-      "Qtd. Embalagem": "1x1",
-      "Medida de venda": "UN",
-      "Qtd. Caixa": "1x8",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "2.3",
       "Nome calculo": "€ / Kg"
     },
     {
@@ -4655,8 +4580,8 @@
       "Reference": "I.15064",
       "Código de Barras": "5603238860252",
       "Peso": "3.15Kg",
-      "PVP s/iva": "46.53",
-      "O seu preço": "46.53",
+      "PVP s/iva": "42.63",
+      "O seu preço": "42.63",
       "Qtd. Embalagem": "1x525Gr",
       "Medida de venda": "---",
       "Qtd. Caixa": "1x6",
@@ -4678,21 +4603,6 @@
       "Estado": "Refrigerado",
       "Observações": "---",
       "Unidade calculo": "6",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Queijo Curado Mistura UZI 250Gr  (1x12)",
-      "Reference": "I.16006",
-      "Código de Barras": "45600713813091",
-      "Peso": "3Kg",
-      "PVP s/iva": "4.22",
-      "O seu preço": "4.22",
-      "Qtd. Embalagem": "1x250Gr",
-      "Medida de venda": "UN",
-      "Qtd. Caixa": "1x12",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "1",
       "Nome calculo": "€ / Unidade"
     },
     {
@@ -4775,8 +4685,8 @@
       "Reference": "I.11033",
       "Código de Barras": "2840152031556",
       "Peso": "3Kg",
-      "PVP s/iva": "7.34",
-      "O seu preço": "7.34",
+      "PVP s/iva": "7.51",
+      "O seu preço": "7.51",
       "Qtd. Embalagem": "1x3Kg",
       "Medida de venda": "---",
       "Qtd. Caixa": "1x4",
@@ -5000,8 +4910,8 @@
       "Reference": "I.15116",
       "Código de Barras": "8420197001024",
       "Peso": "3.3Kg",
-      "PVP s/iva": "16.64",
-      "O seu preço": "16.64",
+      "PVP s/iva": "18.30",
+      "O seu preço": "18.30",
       "Qtd. Embalagem": "1x3.3Kg",
       "Medida de venda": "---",
       "Qtd. Caixa": "1x2",
@@ -5075,8 +4985,8 @@
       "Reference": "I.15090",
       "Código de Barras": "5603238860122",
       "Peso": "1.2Kg",
-      "PVP s/iva": "15.10",
-      "O seu preço": "15.10",
+      "PVP s/iva": "14.08",
+      "O seu preço": "14.08",
       "Qtd. Embalagem": "1x1.2Kg",
       "Medida de venda": "---",
       "Qtd. Caixa": "1x3",
@@ -5210,8 +5120,8 @@
       "Reference": "I.15123",
       "Código de Barras": "8420197007866",
       "Peso": "1.65Kg",
-      "PVP s/iva": "26.52",
-      "O seu preço": "26.52",
+      "PVP s/iva": "26.40",
+      "O seu preço": "26.40",
       "Qtd. Embalagem": "1x1.65Kg",
       "Medida de venda": "---",
       "Qtd. Caixa": "1x4",
@@ -5401,6 +5311,21 @@
       "Nome calculo": "€ / Unidade"
     },
     {
+      "Name": "Queijo Semi-Curado Serrano CADI",
+      "Reference": "I.15044",
+      "Código de Barras": "2942540003548",
+      "Peso": "3kg",
+      "PVP s/iva": "10.98",
+      "O seu preço": "10.98",
+      "Qtd. Embalagem": "1x3Kg",
+      "Medida de venda": "---",
+      "Qtd. Caixa": "1x2",
+      "Estado": "Refrigerado",
+      "Observações": "---",
+      "Unidade calculo": "1",
+      "Nome calculo": "€ / Kg"
+    },
+    {
       "Name": "Ameijoa Vietenamita 60/80 Amarras 900g (1x10)",
       "Reference": "D.41096",
       "Código de Barras": "5606669213083",
@@ -5429,6 +5354,21 @@
       "Observações": "---",
       "Unidade calculo": "1",
       "Nome calculo": "€ / Unidade"
+    },
+    {
+      "Name": "Atum Clara Mar Bolsa 1kg (1x16)",
+      "Reference": "D.51031",
+      "Código de Barras": ".....",
+      "Peso": "1kg",
+      "PVP s/iva": "8.71",
+      "O seu preço": "8.71",
+      "Qtd. Embalagem": "1x1kg",
+      "Medida de venda": "UN",
+      "Qtd. Caixa": "1x16",
+      "Estado": "Seco",
+      "Observações": "---",
+      "Unidade calculo": "1",
+      "Nome calculo": "€ / Bolsa Kg"
     },
     {
       "Name": "Atum em Óleo Veg Comandante Bolsa 1kg (1x16)",
@@ -5563,7 +5503,7 @@
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "4.5",
-      "Nome calculo": "€ / Kg"
+      "Nome calculo": "€ / Kg | PLE"
     },
     {
       "Name": "Bacalhau Dem. Desfiado Amarras cx.6kg cong.",
@@ -5623,7 +5563,7 @@
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "6.3",
-      "Nome calculo": "€ / Kg"
+      "Nome calculo": "€ / Kg | PLE"
     },
     {
       "Name": "Bacalhau Dem. Lombo 400/500 Doris Hig. (6,3kg) cong.",
@@ -5953,7 +5893,7 @@
       "Estado": "Congelado",
       "Observações": "Granel",
       "Unidade calculo": "10",
-      "Nome calculo": "€ / Kg"
+      "Nome calculo": "€ / Kg | PLE"
     },
     {
       "Name": "Bacalhau Posta C/Lombo Extra (MM) 800/1000 Granel (PL10Kg/PLE9Kg) cong.",
@@ -5983,7 +5923,7 @@
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "6.3",
-      "Nome calculo": "€ / Kg"
+      "Nome calculo": "€ / Kg | PLE"
     },
     {
       "Name": "Caldeirada Peixe Nigel (6x900g) cong.",
@@ -6031,6 +5971,21 @@
       "Nome calculo": "€ / Unidade"
     },
     {
+      "Name": "Camarao EQ 60/80 Champmar (2x5kg) cong.",
+      "Reference": "D.41127",
+      "Código de Barras": "95606669108224",
+      "Peso": "10Kg",
+      "PVP s/iva": "81.00",
+      "O seu preço": "81.00",
+      "Qtd. Embalagem": "1x5Kg",
+      "Medida de venda": "CX",
+      "Qtd. Caixa": "2x5Kg",
+      "Estado": "Congelado",
+      "Observações": "---",
+      "Unidade calculo": "10",
+      "Nome calculo": "€ / Kg"
+    },
+    {
       "Name": "Camarão Jumbo 13-15 Vostoq (10x800g) cong",
       "Reference": "D.41120",
       "Código de Barras": "8436565918627",
@@ -6076,33 +6031,18 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Camarao Vannamei 25/30 0%Vidragem IQF PF (12X700g) cong.",
-      "Reference": "D.41110",
+      "Name": "Camarao Vannamei 25/30 0%Vidragem IQF PF Granel Cx. 8.4Kg cong.",
+      "Reference": "D.91030",
       "Código de Barras": "8436543551945",
       "Peso": "8.4Kg",
-      "PVP s/iva": "108.55",
-      "O seu preço": "108.55",
-      "Qtd. Embalagem": "1x700Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x12",
+      "PVP s/iva": "107.20",
+      "O seu preço": "107.20",
+      "Qtd. Embalagem": "1x8.4Kg",
+      "Medida de venda": "CX",
+      "Qtd. Caixa": "1x8.4Kg",
       "Estado": "Congelado",
       "Observações": "---",
-      "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Camarao Vannamei 30/40 0%Vidragem IQF PF (6x2kg) cong.",
-      "Reference": "D.91029",
-      "Código de Barras": "2102797903",
-      "Peso": "2Kg",
-      "PVP s/iva": "20.17",
-      "O seu preço": "20.17",
-      "Qtd. Embalagem": "1x2Kg",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x6",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "2",
+      "Unidade calculo": "8.4",
       "Nome calculo": "€ / Kg"
     },
     {
@@ -6200,8 +6140,8 @@
       "Reference": "D.21016",
       "Código de Barras": "",
       "Peso": "5kg",
-      "PVP s/iva": "57.38",
-      "O seu preço": "57.38",
+      "PVP s/iva": "58.65",
+      "O seu preço": "58.65",
       "Qtd. Embalagem": "1x1",
       "Medida de venda": "UN",
       "Qtd. Caixa": "1x2",
@@ -6245,8 +6185,8 @@
       "Reference": "D.41133",
       "Código de Barras": ".....",
       "Peso": "10Kg",
-      "PVP s/iva": "118.98",
-      "O seu preço": "118.98",
+      "PVP s/iva": "116.75",
+      "O seu preço": "116.75",
       "Qtd. Embalagem": "1x1",
       "Medida de venda": "CX",
       "Qtd. Caixa": "1x10Kg",
@@ -6256,19 +6196,19 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Gambao Selvagem Argentino L2 Wofco (16x400g) cong.",
-      "Reference": "D.41131",
+      "Name": "Gambao Selvagem Argentino L2 Wofco Granel Cx 6.4Kg  cong.",
+      "Reference": "D.41136",
       "Código de Barras": ".....",
       "Peso": "6.4",
-      "PVP s/iva": "6.20",
-      "O seu preço": "6.20",
-      "Qtd. Embalagem": "16x400Gr",
-      "Medida de venda": "UN",
-      "Qtd. Caixa": "1x16",
+      "PVP s/iva": "97.33",
+      "O seu preço": "97.33",
+      "Qtd. Embalagem": "1x6.4Kg",
+      "Medida de venda": "CX",
+      "Qtd. Caixa": "1x6.4Kg",
       "Estado": "Congelado",
       "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Unidade"
+      "Unidade calculo": "6.4",
+      "Nome calculo": "€ / Kg"
     },
     {
       "Name": "Lombos de Bacalhau Noruega Seco Lugrade cx 2Kg",
@@ -6445,21 +6385,6 @@
       "Qtd. Embalagem": "1x1Kg",
       "Medida de venda": "Unid",
       "Qtd. Caixa": "1x6",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Miolo de Camarao Premium 30/50 CP 1kg (1x6) cong.",
-      "Reference": "D.41069",
-      "Código de Barras": "",
-      "Peso": "1Kg",
-      "PVP s/iva": "10.85",
-      "O seu preço": "10.85",
-      "Qtd. Embalagem": "---",
-      "Medida de venda": "UN",
-      "Qtd. Caixa": "1X6",
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "1",
@@ -6811,21 +6736,6 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Premium Polvo 1/2kg cv FAO34 UZI cx.8kg (1x6) cong.",
-      "Reference": "D.31071",
-      "Código de Barras": "2902579015501",
-      "Peso": "1/2kg",
-      "PVP s/iva": "16.26",
-      "O seu preço": "16.26",
-      "Qtd. Embalagem": "1x1",
-      "Medida de venda": "KG",
-      "Qtd. Caixa": "8kg",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Kg"
-    },
-    {
       "Name": "Premium Polvo 3/4kg cv FAO34 UZI aprx.18Kg (1x5) cong.",
       "Reference": "D.31067",
       "Código de Barras": "12908554000000",
@@ -7066,21 +6976,6 @@
       "Nome calculo": "€ / Litro"
     },
     {
-      "Name": "Azeite Saquetas Cosami (200x10mL)",
-      "Reference": "H.47132",
-      "Código de Barras": "8422874008234",
-      "Peso": "2Kg",
-      "PVP s/iva": "31.40",
-      "O seu preço": "31.40",
-      "Qtd. Embalagem": "1x10ml",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x200",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "200",
-      "Nome calculo": "€ / Saqueta"
-    },
-    {
       "Name": "Azeite Virgem Extra Escario 5L (1x3)",
       "Reference": "H.23016",
       "Código de Barras": "8437021597028",
@@ -7093,21 +6988,6 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "3",
-      "Nome calculo": "€ / Litro"
-    },
-    {
-      "Name": "Azeite Virgem Extra Rosmaninho Classico DOP Grf 5L (1x4)",
-      "Reference": "H.23023",
-      "Código de Barras": "5602708105510",
-      "Peso": "20",
-      "PVP s/iva": "189.36",
-      "O seu preço": "189.36",
-      "Qtd. Embalagem": "1X5Lt",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1X4",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "20",
       "Nome calculo": "€ / Litro"
     },
     {
@@ -7306,21 +7186,6 @@
       "Nome calculo": "€ / Caixa"
     },
     {
-      "Name": "Gelatina Ananas S/Açucar Ladona  (4x(6x170g))",
-      "Reference": "H.11433",
-      "Código de Barras": "5607135163133",
-      "Peso": "4.08Kg",
-      "PVP s/iva": "97.22",
-      "O seu preço": "97.22",
-      "Qtd. Embalagem": "6x170Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x4",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "24",
-      "Nome calculo": "€ / Saqueta"
-    },
-    {
       "Name": "Gelatina Morango Carte D'Or (6x850g)",
       "Reference": "H.11404",
       "Código de Barras": "8410127162154",
@@ -7363,21 +7228,6 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "24",
-      "Nome calculo": "€ / Saqueta"
-    },
-    {
-      "Name": "Gelatina Pessego Ladona  (4x(5x250g))",
-      "Reference": "H.11435",
-      "Código de Barras": "5607135163102",
-      "Peso": "5Kg",
-      "PVP s/iva": "30.40",
-      "O seu preço": "30.40",
-      "Qtd. Embalagem": "5x250Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x4",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "20",
       "Nome calculo": "€ / Saqueta"
     },
     {
@@ -7426,21 +7276,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Ketchup Cosami Unidoses (200x12g)",
-      "Reference": "H.47129",
-      "Código de Barras": "8422874000276",
-      "Peso": "2.4Kg",
-      "PVP s/iva": "10.55",
-      "O seu preço": "10.55",
-      "Qtd. Embalagem": "200x12g",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x200",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "200",
-      "Nome calculo": "€ / Saqueta"
-    },
-    {
       "Name": "Ketchup Heins Saq. (200x10ml)",
       "Reference": "H.47037",
       "Código de Barras": "05000157143440",
@@ -7454,21 +7289,6 @@
       "Observações": "---",
       "Unidade calculo": "200",
       "Nome calculo": "€ / Saqueta"
-    },
-    {
-      "Name": "Ketchup Heinz",
-      "Reference": "H.47035",
-      "Código de Barras": "8715700419688",
-      "Peso": "5,7kg",
-      "PVP s/iva": "23.80",
-      "O seu preço": "23.80",
-      "Qtd. Embalagem": "---",
-      "Medida de venda": "UN",
-      "Qtd. Caixa": "---",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "5.7",
-      "Nome calculo": "€ / Kg"
     },
     {
       "Name": "Ketchup Paladin (6x1000g)",
@@ -7559,21 +7379,6 @@
       "Observações": "---",
       "Unidade calculo": "12",
       "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Maionese Cosami Unidoses (200x14ml)",
-      "Reference": "H.47130",
-      "Código de Barras": "8422874000269",
-      "Peso": "2.8Kg",
-      "PVP s/iva": "15.11",
-      "O seu preço": "15.11",
-      "Qtd. Embalagem": "1x14ml",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x200",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "200",
-      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Maionese Heinz Balde 5Lt",
@@ -7996,21 +7801,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Oleo Alto Rendimento Bifri Grf 25L",
-      "Reference": "H.22026",
-      "Código de Barras": "410687091409",
-      "Peso": "25Litros",
-      "PVP s/iva": "120.36",
-      "O seu preço": "120.36",
-      "Qtd. Embalagem": "1x25Litros",
-      "Medida de venda": "Unid",
-      "Qtd. Caixa": "1x1",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "25",
-      "Nome calculo": "€ / Litro"
-    },
-    {
       "Name": "Oleo Tempero Seara do Campo (4x5L)",
       "Reference": "H.22014",
       "Código de Barras": "5605777015056",
@@ -8082,8 +7872,8 @@
       "Qtd. Caixa": "1x4",
       "Estado": "Refrigerado",
       "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Unidade"
+      "Unidade calculo": "2",
+      "Nome calculo": "€ / Kg"
     },
     {
       "Name": "Polpa de Tomate Fr.500g Trevi (1x12)",
@@ -8221,21 +8011,6 @@
       "Nome calculo": "€ / Saqueta"
     },
     {
-      "Name": "Tempero p/ Frango Peninsular Frs1100g (1x6)",
-      "Reference": "H.44020",
-      "Código de Barras": "4560151732031",
-      "Peso": "6.6Kg",
-      "PVP s/iva": "23.73",
-      "O seu preço": "23.73",
-      "Qtd. Embalagem": "1x1.1Kg",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x6",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "6",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Tomate Concentrado Guloso Saco 3Kg (1x5)",
       "Reference": "H.47042",
       "Código de Barras": "5601019019073",
@@ -8309,21 +8084,6 @@
       "Observações": "---",
       "Unidade calculo": "12",
       "Nome calculo": "€ / Lata"
-    },
-    {
-      "Name": "Tomate Temperado para Pizzas Cosami Lt 4Kg (1x3)",
-      "Reference": "H.47138",
-      "Código de Barras": "8422874600056",
-      "Peso": "4kg",
-      "PVP s/iva": "9.45",
-      "O seu preço": "9.45",
-      "Qtd. Embalagem": "1x5Kg",
-      "Medida de venda": "UN",
-      "Qtd. Caixa": "1x555553",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "4",
-      "Nome calculo": "€ / Kg"
     },
     {
       "Name": "Tomate Temperado para Pizzas Sopragol Lt 2,55Kg (1x6)",
@@ -8416,21 +8176,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Vinagre de Figo Spray Paladin (6x250ml)",
-      "Reference": "H.43004",
-      "Código de Barras": "5601517121155",
-      "Peso": "1.5Litros",
-      "PVP s/iva": "6.53",
-      "O seu preço": "6.53",
-      "Qtd. Embalagem": "1x250ML",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x6",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "6",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Vinagre de Sidra Spray Paladin (6x250ml)",
       "Reference": "H.43007",
       "Código de Barras": "5601517131024",
@@ -8459,21 +8204,6 @@
       "Observações": "---",
       "Unidade calculo": "15",
       "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Vinagre Saquetas Cosami (200x10mL)",
-      "Reference": "H.47133",
-      "Código de Barras": "8422874008241",
-      "Peso": "2Kg",
-      "PVP s/iva": "8.70",
-      "O seu preço": "8.70",
-      "Qtd. Embalagem": "1x10ml",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x200",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "200",
-      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Vinagre V.Branco Peninsular (20x750ml)",
@@ -8600,8 +8330,8 @@
       "Reference": "E.21090",
       "Código de Barras": "98435244807878",
       "Peso": "10Kg",
-      "PVP s/iva": "12.80",
-      "O seu preço": "12.80",
+      "PVP s/iva": "13.70",
+      "O seu preço": "13.70",
       "Qtd. Embalagem": "1x2Kg",
       "Medida de venda": "kg",
       "Qtd. Caixa": "1x5",
@@ -9001,21 +8731,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Hamburguer de Borrego ae 3x(20x60g) cx.3.6kg cong.",
-      "Reference": "E.91080",
-      "Código de Barras": "",
-      "Peso": "3.6Kg",
-      "PVP s/iva": "98.87",
-      "O seu preço": "98.87",
-      "Qtd. Embalagem": "1X60Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "3x20",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "20",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Hamburguer de Frango do Campo ae 140g (1x36) cx.5,4kg cong.",
       "Reference": "E.91074",
       "Código de Barras": "08437017613398",
@@ -9073,21 +8788,6 @@
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "24",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Hamburguer de Vaca 95g ae (1x60) cx.5.7 kg cong.",
-      "Reference": "E.91066",
-      "Código de Barras": "",
-      "Peso": "5,7kg",
-      "PVP s/iva": "104.27",
-      "O seu preço": "104.27",
-      "Qtd. Embalagem": "95gr",
-      "Medida de venda": "CX",
-      "Qtd. Caixa": "1x60",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "60",
       "Nome calculo": "€ / Unidade"
     },
     {
@@ -9181,6 +8881,21 @@
       "Nome calculo": "€ / Kg"
     },
     {
+      "Name": "Lagartos de Porco (1x8) Cx.aprx 12Kg Cong.",
+      "Reference": "E.21106",
+      "Código de Barras": ".....",
+      "Peso": "12Kg",
+      "PVP s/iva": "7.07",
+      "O seu preço": "7.07",
+      "Qtd. Embalagem": "1x1.5Kg",
+      "Medida de venda": "KG",
+      "Qtd. Caixa": "1x12Kg",
+      "Estado": "Congelado",
+      "Observações": "---",
+      "Unidade calculo": "1",
+      "Nome calculo": "€ / Kg"
+    },
+    {
       "Name": "Lingua de Angus Discarlux Cong.",
       "Reference": "E.92180",
       "Código de Barras": "08436550423853",
@@ -9191,21 +8906,6 @@
       "Medida de venda": "---",
       "Qtd. Caixa": "---",
       "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Kg"
-    },
-    {
-      "Name": "Lombinhos de Porco Emb. (1x11) cx. aprx 11kg cong.",
-      "Reference": "E.42015",
-      "Código de Barras": "",
-      "Peso": "11kg",
-      "PVP s/iva": "8.27",
-      "O seu preço": "8.27",
-      "Qtd. Embalagem": "1x11Kg",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x1",
-      "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "1",
       "Nome calculo": "€ / Kg"
@@ -9485,8 +9185,8 @@
       "Reference": "E.91050",
       "Código de Barras": "",
       "Peso": "5KG",
-      "PVP s/iva": "68.35",
-      "O seu preço": "68.35",
+      "PVP s/iva": "84.01",
+      "O seu preço": "84.01",
       "Qtd. Embalagem": "---",
       "Medida de venda": "CX",
       "Qtd. Caixa": "---",
@@ -9500,8 +9200,8 @@
       "Reference": "E.91054",
       "Código de Barras": "",
       "Peso": "350G",
-      "PVP s/iva": "54.30",
-      "O seu preço": "54.30",
+      "PVP s/iva": "61.41",
+      "O seu preço": "61.41",
       "Qtd. Embalagem": "---",
       "Medida de venda": "CX",
       "Qtd. Caixa": "1X12",
@@ -9545,8 +9245,8 @@
       "Reference": "E.31027",
       "Código de Barras": "",
       "Peso": "2KG",
-      "PVP s/iva": "11.30",
-      "O seu preço": "11.30",
+      "PVP s/iva": "11.50",
+      "O seu preço": "11.50",
       "Qtd. Embalagem": "---",
       "Medida de venda": "UN",
       "Qtd. Caixa": "2X6",
@@ -9586,15 +9286,15 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Picanha Bovino AA (Orig.UE)",
-      "Reference": "E.92189",
-      "Código de Barras": "95602953483800",
-      "Peso": "18Kg",
-      "PVP s/iva": "21.77",
-      "O seu preço": "21.77",
-      "Qtd. Embalagem": "1x18Kg",
+      "Name": "Picanha Black Angus Uruguai (Riviera Ranch) (1x10) cx aprx 15kg",
+      "Reference": "E.92208",
+      "Código de Barras": "60042930084000",
+      "Peso": "15Kg",
+      "PVP s/iva": "27.45",
+      "O seu preço": "27.45",
+      "Qtd. Embalagem": "1x10",
       "Medida de venda": "KG",
-      "Qtd. Caixa": "1x12",
+      "Qtd. Caixa": "1x15Kg",
       "Estado": "Refrigerado",
       "Observações": "---",
       "Unidade calculo": "1",
@@ -9676,21 +9376,6 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Quarto Traseiro Frango AM (10Kg) cong.",
-      "Reference": "E.31019",
-      "Código de Barras": "05099822591501",
-      "Peso": "10kg",
-      "PVP s/iva": "32.98",
-      "O seu preço": "32.98",
-      "Qtd. Embalagem": "1x10Kg",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x1",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "10",
-      "Nome calculo": "€ / Kg"
-    },
-    {
       "Name": "Rabo de Vaca Inteiro Seleçao  Discarlux",
       "Reference": "E.92072",
       "Código de Barras": "08436550421682",
@@ -9700,21 +9385,6 @@
       "Qtd. Embalagem": "2x1.5Kg",
       "Medida de venda": "kg",
       "Qtd. Caixa": "1x1",
-      "Estado": "Refrigerado",
-      "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Kg"
-    },
-    {
-      "Name": "Rack de Bovino (+4anos) Maturado Discarlux (aprx.1kg)",
-      "Reference": "E.92005",
-      "Código de Barras": "08436550422283",
-      "Peso": "1kg",
-      "PVP s/iva": "50.50",
-      "O seu preço": "50.50",
-      "Qtd. Embalagem": "1x1kg",
-      "Medida de venda": "kg",
-      "Qtd. Caixa": "???",
       "Estado": "Refrigerado",
       "Observações": "---",
       "Unidade calculo": "1",
@@ -9733,6 +9403,21 @@
       "Estado": "Refrigerado",
       "Observações": "---",
       "Unidade calculo": "1",
+      "Nome calculo": "€ / Kg"
+    },
+    {
+      "Name": "Rosários de Porco Cx. 6Kg Cong.",
+      "Reference": "E.21107",
+      "Código de Barras": "5601935020221",
+      "Peso": "6Kg",
+      "PVP s/iva": "19.20",
+      "O seu preço": "19.20",
+      "Qtd. Embalagem": "1x1",
+      "Medida de venda": "CX",
+      "Qtd. Caixa": "1x6Kg",
+      "Estado": "Congelado",
+      "Observações": "---",
+      "Unidade calculo": "6",
       "Nome calculo": "€ / Kg"
     },
     {
@@ -9755,8 +9440,8 @@
       "Reference": "E.21089",
       "Código de Barras": "98435294807724",
       "Peso": "10Kg",
-      "PVP s/iva": "7.51",
-      "O seu preço": "7.51",
+      "PVP s/iva": "6.82",
+      "O seu preço": "6.82",
       "Qtd. Embalagem": "1x2Kg",
       "Medida de venda": "kg",
       "Qtd. Caixa": "1x5",
@@ -10321,36 +10006,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Pasteis de Bacalhau c/Queijo Carina (50un) cong.",
-      "Reference": "C.15014",
-      "Código de Barras": "5602070003445",
-      "Peso": "4.1Kg",
-      "PVP s/iva": "83.92",
-      "O seu preço": "83.92",
-      "Qtd. Embalagem": "1x50",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x1",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "50",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Pasteis de Bacalhau Carina (cx.100un) cong.",
-      "Reference": "C.11011",
-      "Código de Barras": "5602070001526",
-      "Peso": "2.9Kg",
-      "PVP s/iva": "24.17",
-      "O seu preço": "24.17",
-      "Qtd. Embalagem": "1x100",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x1",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "100",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Pasteis de Bacalhau Cv350gr Carina  (1x13) cong.",
       "Reference": "C.15007",
       "Código de Barras": "5602070000192",
@@ -10426,21 +10081,6 @@
       "Nome calculo": "€ / Covete"
     },
     {
-      "Name": "Rissol de Alheira Carina",
-      "Reference": "C.16045",
-      "Código de Barras": "562070001632",
-      "Peso": "3.85Kg",
-      "PVP s/iva": "22.46",
-      "O seu preço": "22.46",
-      "Qtd. Embalagem": "1x8",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x11",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "11",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Rissol de Camarao Cv350gr  Carina (1x11) cong.",
       "Reference": "C.16042",
       "Código de Barras": "5602070000109",
@@ -10452,21 +10092,6 @@
       "Qtd. Caixa": "1x11",
       "Estado": "Congelado",
       "Observações": "---",
-      "Unidade calculo": "11",
-      "Nome calculo": "€ / Covete"
-    },
-    {
-      "Name": "Rissol de Camarao Forno cv8un Carina (1x11) cong.",
-      "Reference": "C.16063",
-      "Código de Barras": "",
-      "Peso": "3.85Kg",
-      "PVP s/iva": "34.16",
-      "O seu preço": "34.16",
-      "Qtd. Embalagem": "1x350Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x11",
-      "Estado": "Congelado",
-      "Observações": "Covete 8 Unid",
       "Unidade calculo": "11",
       "Nome calculo": "€ / Covete"
     },
@@ -10514,21 +10139,6 @@
       "Observações": "---",
       "Unidade calculo": "10",
       "Nome calculo": "€ / Covete"
-    },
-    {
-      "Name": "Rissol de Carne Carina (100un) cong.",
-      "Reference": "C.16069",
-      "Código de Barras": "",
-      "Peso": "4.4Kg",
-      "PVP s/iva": "20.61",
-      "O seu preço": "20.61",
-      "Qtd. Embalagem": "1x100",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x1",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "100",
-      "Nome calculo": "€ / Unidade"
     },
     {
       "Name": "Rissol de Carne Cv350gr Carina (1x11) cong.",
@@ -10651,21 +10261,6 @@
       "Nome calculo": "€ / Covete"
     },
     {
-      "Name": "Rissol Leitao Extra Forte Carina cv6un (1x10) cong.",
-      "Reference": "C.16068",
-      "Código de Barras": "560207051004",
-      "Peso": "4.2Kg",
-      "PVP s/iva": "33.42",
-      "O seu preço": "33.42",
-      "Qtd. Embalagem": "1x6",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x10",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "10",
-      "Nome calculo": "€ / Covete"
-    },
-    {
       "Name": "Rissol Misto CARINA",
       "Reference": "C.16044",
       "Código de Barras": "5602070000475",
@@ -10692,8 +10287,8 @@
       "Qtd. Caixa": "1x6",
       "Estado": "Seco",
       "Observações": "---",
-      "Unidade calculo": "3",
-      "Nome calculo": "€ / Kg"
+      "Unidade calculo": "2.04",
+      "Nome calculo": "€ / Kg | PLE"
     },
     {
       "Name": "Ananas Rodelas Conserva Del Monte Lt 3,07Kg (1x6)",
@@ -10816,21 +10411,6 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Azeitona Mista 291/320 Cantoliva 300g (1x12)",
-      "Reference": "F.21079",
-      "Código de Barras": "5604253400065",
-      "Peso": "3.6Kg",
-      "PVP s/iva": "14.30",
-      "O seu preço": "14.30",
-      "Qtd. Embalagem": "1x300Gr",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x12",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Azeitona Mista Ret c/Azeite Cantoliva 300g (1x12)",
       "Reference": "F.21080",
       "Código de Barras": "5604253400508",
@@ -10933,7 +10513,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "1.56",
-      "Nome calculo": "€ / Kg"
+      "Nome calculo": "€ / Kg | PLE"
     },
     {
       "Name": "Azeitona Verde 201/230 Cantoliva BL5kg",
@@ -11034,21 +10614,6 @@
       "O seu preço": "44.50",
       "Qtd. Embalagem": "1x2.5Kg",
       "Medida de venda": "---",
-      "Qtd. Caixa": "1x6",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "6",
-      "Nome calculo": "€ / Lata"
-    },
-    {
-      "Name": "Cogumelos Laminados Hersan 2.5kg (1x6)",
-      "Reference": "F.21082",
-      "Código de Barras": "0000000",
-      "Peso": "15 Kg",
-      "PVP s/iva": "49.62",
-      "O seu preço": "49.62",
-      "Qtd. Embalagem": "1x2.5Kg",
-      "Medida de venda": "CX",
       "Qtd. Caixa": "1x6",
       "Estado": "Seco",
       "Observações": "---",
@@ -11188,7 +10753,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "8",
-      "Nome calculo": "€ / Lata"
+      "Nome calculo": "€ / Tripack"
     },
     {
       "Name": "Milho Doce Trevi 340gr (1x12)",
@@ -11228,36 +10793,6 @@
       "PVP s/iva": "33.42",
       "O seu preço": "33.42",
       "Qtd. Embalagem": "1x820Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x12",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Pessego Metades  Conserva Del Monte (6x825gr)",
-      "Reference": "F.40019",
-      "Código de Barras": "2400001041",
-      "Peso": "4.95Kg",
-      "PVP s/iva": "14.68",
-      "O seu preço": "14.68",
-      "Qtd. Embalagem": "1x825Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x6",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "6",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Pessego Metades Lt 840gr Trevi (1x12)",
-      "Reference": "F.40008",
-      "Código de Barras": "5605458653003",
-      "Peso": "840Gr",
-      "PVP s/iva": "32.81",
-      "O seu preço": "32.81",
-      "Qtd. Embalagem": "1x840Gr",
       "Medida de venda": "Cx",
       "Qtd. Caixa": "1x12",
       "Estado": "Seco",
@@ -11551,21 +11086,6 @@
       "Nome calculo": "€ / Kg"
     },
     {
-      "Name": "Feijoada de Legumes Fam. BA (4x1.25kg) cx.5kg cong.",
-      "Reference": "G.21074",
-      "Código de Barras": "5600338863275",
-      "Peso": "5Kg",
-      "PVP s/iva": "27.43",
-      "O seu preço": "27.43",
-      "Qtd. Embalagem": "1x1.25Kg",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x4",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "5",
-      "Nome calculo": "€ / Kg"
-    },
-    {
       "Name": "Filete de Peixe Branco Panado Davigel aprx.105g (Cx5,2Kg) cong.",
       "Reference": "D.91019",
       "Código de Barras": "",
@@ -11683,22 +11203,22 @@
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "50",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Hambúrguer"
     },
     {
       "Name": "Hamburguer de Quinoa e Bulgur Davigel (2sc. 2.52kg) cx.5.04kg",
       "Reference": "G.51014",
       "Código de Barras": "3220440159923",
       "Peso": "5.04kg",
-      "PVP s/iva": "63.24",
-      "O seu preço": "63.24",
+      "PVP s/iva": "64.62",
+      "O seu preço": "64.62",
       "Qtd. Embalagem": "1x2.52Kg",
       "Medida de venda": "Cx",
       "Qtd. Caixa": "1x2",
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "36",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Hambúrguer"
     },
     {
       "Name": "Hamburguer de Trigo Duro e Lentilhas Davigel (2x2,5kg) cx.5kg cong.",
@@ -11971,21 +11491,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Pepitas de Frango Caril Madras Davigel cx.5kg cong.",
-      "Reference": "G.21079",
-      "Código de Barras": "3220440191954",
-      "Peso": "5kg",
-      "PVP s/iva": "38.46",
-      "O seu preço": "38.46",
-      "Qtd. Embalagem": "1x14Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x350",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "350",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Pizza Atum FZ (6x360g) cong.",
       "Reference": "G.71003",
       "Código de Barras": "28420321071514",
@@ -12163,21 +11668,6 @@
       "Estado": "Congelado",
       "Observações": "---",
       "Unidade calculo": "360",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Ravioli Gamba AP cx.2.5kg cong.",
-      "Reference": "G.21076",
-      "Código de Barras": "8436590500590",
-      "Peso": "2.5Kg",
-      "PVP s/iva": "42.22",
-      "O seu preço": "42.22",
-      "Qtd. Embalagem": "1x12Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x200",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "200",
       "Nome calculo": "€ / Unidade"
     },
     {
@@ -12376,21 +11866,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Surpresa de Frango com Brie e Trufa Davigel (44un) cx.5kg cong.",
-      "Reference": "G.21078",
-      "Código de Barras": "3220440192135",
-      "Peso": "5kg",
-      "PVP s/iva": "80.17",
-      "O seu preço": "80.17",
-      "Qtd. Embalagem": "1x110Gr",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x44",
-      "Estado": "Congelado",
-      "Observações": "---",
-      "Unidade calculo": "44",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Tarte de Limão Merengada Davigel (4unx1Kg) cx.4Kg cong.",
       "Reference": "G.61079",
       "Código de Barras": "32204401981442",
@@ -12440,8 +11915,8 @@
       "Reference": "G.40039",
       "Código de Barras": "8710637001746",
       "Peso": "9.92Kg",
-      "PVP s/iva": "47.82",
-      "O seu preço": "47.82",
+      "PVP s/iva": "51.30",
+      "O seu preço": "51.30",
       "Qtd. Embalagem": "1x1.24Kg",
       "Medida de venda": "---",
       "Qtd. Caixa": "8x18",
@@ -12616,39 +12091,9 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "Alpro Bebida Vegetal Chocolate Proteina",
-      "Reference": "K.71021",
-      "Código de Barras": "5411188133476",
-      "Peso": "250ML",
-      "PVP s/iva": "1.22",
-      "O seu preço": "1.22",
-      "Qtd. Embalagem": "1x250ML",
-      "Medida de venda": "Unid",
-      "Qtd. Caixa": "1x15",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "1",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Alpro Bebida Vegetal Chocolate Proteina 1L (1x8)",
       "Reference": "K.71009",
       "Código de Barras": "5411188130055",
-      "Peso": "8Litros",
-      "PVP s/iva": "24.57",
-      "O seu preço": "24.57",
-      "Qtd. Embalagem": "1x1Litros",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x8",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "8",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Alpro Bebida Vegetal Natural Proteina 1L (1x8)",
-      "Reference": "K.71010",
-      "Código de Barras": "5411188135142",
       "Peso": "8Litros",
       "PVP s/iva": "24.57",
       "O seu preço": "24.57",
@@ -12748,21 +12193,6 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Bolacha Maria Avó Rosa (200x(5x5g)) cx.5kg",
-      "Reference": "K.21006",
-      "Código de Barras": "15607135140025",
-      "Peso": "5kg",
-      "PVP s/iva": "20.63",
-      "O seu preço": "20.63",
-      "Qtd. Embalagem": "1x25Gr",
-      "Medida de venda": "---",
-      "Qtd. Caixa": "1x200",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "200",
       "Nome calculo": "€ / Unidade"
     },
     {
@@ -12928,22 +12358,22 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "5",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Bolsa"
     },
     {
-      "Name": "Farinha Bledina Lactea Frutos Variados",
-      "Reference": "K.46002",
+      "Name": "Farinha Bledina Lactea Frutos Variados 200g (1x7)",
+      "Reference": "K.46008",
       "Código de Barras": "3041091585172",
-      "Peso": "1Kg",
+      "Peso": "1.4Kg",
       "PVP s/iva": "19.34",
       "O seu preço": "19.34",
       "Qtd. Embalagem": "1x200Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x5",
+      "Medida de venda": "---",
+      "Qtd. Caixa": "1x7",
       "Estado": "Seco",
       "Observações": "---",
-      "Unidade calculo": "5",
-      "Nome calculo": "€ / Unidade"
+      "Unidade calculo": "7",
+      "Nome calculo": "€ / Bolsa"
     },
     {
       "Name": "Farinha Bledina Maça Banana Frut. Bosque Aveia 200g (1x7)",
@@ -12958,7 +12388,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "7",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Bolsa"
     },
     {
       "Name": "Farinha Bledina Não Lactea 7 Cereais",
@@ -12973,7 +12403,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "5",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Bolsa"
     },
     {
       "Name": "Farinha Bledina Não Lactea Arroz",
@@ -12988,7 +12418,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "5",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Bolsa"
     },
     {
       "Name": "Iogofruta Bledina Banana Pack4x95g (1x6)",
@@ -13108,7 +12538,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "8",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Covete"
     },
     {
       "Name": "Marmelada Extra UZI Pte. Lima 800g (1x8)",
@@ -13123,7 +12553,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "8",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Covete"
     },
     {
       "Name": "Marmelada Extra UZI Pte. Lima Cx 5Kg (1x1)",
@@ -13183,7 +12613,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Saquetas Bledina Frutos Variados 85g (1x16)",
@@ -13198,7 +12628,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Saquetas Bledina Maça Banana 85g (1x16)",
@@ -13213,7 +12643,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Saquetas Bledina Maça Manga Laranja 85g (1x16)",
@@ -13228,22 +12658,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Saquetas Bledina Maça Morango Banana Cereja 85g (1x16)",
-      "Reference": "K.35005",
-      "Código de Barras": "5900852054853",
-      "Peso": "1.36Kg",
-      "PVP s/iva": "12.57",
-      "O seu preço": "12.57",
-      "Qtd. Embalagem": "1x85Gr",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x16",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Saquetas Bledina Maça Pera 85g (1x16)",
@@ -13258,7 +12673,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Saquetas Bledina Pera Banana Alperce 85g (1x16)",
@@ -13273,7 +12688,7 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "16",
-      "Nome calculo": "€ / Unidade"
+      "Nome calculo": "€ / Saqueta"
     },
     {
       "Name": "Snacks Biologico Bledina Tubinhos de Cenoura e Milho",
@@ -13490,8 +12905,8 @@
       "Reference": "G.61077",
       "Código de Barras": "3308650739057",
       "Peso": "1.4Kg",
-      "PVP s/iva": "13.33",
-      "O seu preço": "13.33",
+      "PVP s/iva": "17.11",
+      "O seu preço": "17.11",
       "Qtd. Embalagem": "1x40Gr",
       "Medida de venda": "---",
       "Qtd. Caixa": "1x35",
@@ -13865,8 +13280,8 @@
       "Reference": "G.61015",
       "Código de Barras": "7613034919762",
       "Peso": "1.8kg",
-      "PVP s/iva": "25.63",
-      "O seu preço": "25.63",
+      "PVP s/iva": "25.64",
+      "O seu preço": "25.64",
       "Qtd. Embalagem": "---",
       "Medida de venda": "CX",
       "Qtd. Caixa": "20x90g",
@@ -14026,21 +13441,6 @@
       "Nome calculo": "€ / Unidade"
     },
     {
-      "Name": "GeL Desinfetante 70% Rubean 500mL (1x12)",
-      "Reference": "X.11002",
-      "Código de Barras": "5600767462339",
-      "Peso": "6000ML",
-      "PVP s/iva": "44.53",
-      "O seu preço": "44.53",
-      "Qtd. Embalagem": "1x500ML",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1x12",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
       "Name": "Gel Desinfetante 70% Rubean Stick2mL (4x250)",
       "Reference": "X.11004",
       "Código de Barras": "ND",
@@ -14083,36 +13483,6 @@
       "Estado": "Seco",
       "Observações": "---",
       "Unidade calculo": "12",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Gel Desinfetante Superficies 75% Rubean 5000mL (1x4)",
-      "Reference": "X.13002",
-      "Código de Barras": "5600767462766",
-      "Peso": "5000ML",
-      "PVP s/iva": "15.73",
-      "O seu preço": "15.73",
-      "Qtd. Embalagem": "1x5000ML",
-      "Medida de venda": "Unid",
-      "Qtd. Caixa": "1x4",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "4",
-      "Nome calculo": "€ / Unidade"
-    },
-    {
-      "Name": "Gel Desinfetante Superficies 75% Rubean 750mL (1x16)",
-      "Reference": "X.13001",
-      "Código de Barras": "5600767462797",
-      "Peso": "12000ML",
-      "PVP s/iva": "70.60",
-      "O seu preço": "70.60",
-      "Qtd. Embalagem": "1x750ML",
-      "Medida de venda": "Cx",
-      "Qtd. Caixa": "1X16",
-      "Estado": "Seco",
-      "Observações": "---",
-      "Unidade calculo": "16",
       "Nome calculo": "€ / Unidade"
     }
   ]
